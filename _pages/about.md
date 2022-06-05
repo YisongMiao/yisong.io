@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Minimal website at <a href='https://yisong.me/'>www.yisong.me</a>. 
+subtitle: Aloha! 👋
+<!-- Minimal website at <a href='https://yisong.me/'>www.yisong.me</a>.  -->
 
 <!-- profile:
   align: right
@@ -23,20 +24,27 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-# Introduction
+# Why? Where? What?
 
-Hello! Welcome to Yisong's maximal website. 
+*Why* do you make this website?
+- Show my work. 
+- Practice writing. Encourage myself to write more. 
+- Communicate brave ideas. 
 
-Why this website?
+This is your `maximal` website, so *where* is your `minimal` website?
+- It's here: [yisong.me](yisong.me)
+- I will gradually pare things down in [yisong.me](yisong.me). It will make a one-page style, CV-like website only for essential things. 
+- The idea is similar to Green light/Red light thinking as my advisor told me. [yisong.me](yisong.me) is as simplistic as possible. [yisong.io](yisong.io) is as explorative as possible. 
+
+*What* do you put in this website?
+- Thoughts about NLP in a relaxed style. See [MLP Blog](https://yisong.io/MLP/). 
+- Rigorous technical notes about NLP. See [one](http://karlstratos.com/#notes) I admire. 
+- Videos. 
+- Time managements. 
 
 
-# New things. 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-- MoverScore
-- BERTScore
-- GPTScore
-
-# Contents
+# New updates.
 
 To come. 
+
+
