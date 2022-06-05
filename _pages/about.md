@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-<!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
+subtitle: Minimal website at <a href='https://yisong.me/'>www.yisong.me</a>. 
 
 <!-- profile:
   align: right
