@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Aloha!
+subtitle: Aloha 👋
 
 
 news: false  # includes a list of news items
@@ -21,26 +21,26 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-# Why? Where? What?
+## Why? Where? What?
 
-*Why* do you make this website?
+Q1: *Why* do you make this website?
 - Show my work. 
 - Practice writing. Encourage myself to write more. 
 - Communicate brave ideas. 
 
-This is your `maximal` website, so *where* is your `minimal` website?
+Q2: This is your `maximal` website, so *where* is your `minimal` website?
 - It's here: [yisong.me](yisong.me)
 - I will gradually pare things down in [yisong.me](yisong.me). It will make a one-page style, CV-like website only for essential things. 
 - The idea is similar to Green light/Red light thinking as my advisor told me. [yisong.me](yisong.me) is as simplistic as possible. [yisong.io](yisong.io) is as explorative as possible. 
 
-*What* do you put in this website?
+Q3: *What* do you put in this website?
 - Thoughts about NLP in a relaxed style. See [MLP Blog](https://yisong.io/MLP/). 
 - Rigorous technical notes about NLP. See [one](http://karlstratos.com/#notes) I admire. 
 - Videos. 
 - Time managements. 
 
 
-# New updates.
+## New updates.
 
 To come. 
 
