@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Aloha! 👋
+subtitle: Aloha!
 
 <!-- profile: -->
   <!-- align: right -->
