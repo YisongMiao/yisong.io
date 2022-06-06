@@ -31,7 +31,7 @@ Q1: **Why** do you make this website?
 Q2: This is your `maximal` website, so **where** is your `minimal` website?
 - It's here: [yisong.me](https://yisong.me)
 - I will gradually pare things down in [yisong.me](https://yisong.me). It will make a one-page style, CV-like website only for essential things. 
-- The idea is similar to Green light/Red light thinking as my advisor told me. [yisong.me](https://yisong.me) is as simplistic as possible. [yisong.io](https://yisong.io) is as explorative as possible. 
+- The idea is similar to the Green light/Red light thinking as [my advisor](https://www.comp.nus.edu.sg/~kanmy/) told me. [yisong.me](https://yisong.me) is as simplistic as possible. [yisong.io](https://yisong.io) is as explorative as possible. 
 
 Q3: **What** do you put in this website?
 - Thoughts about NLP in a relaxed style. See [MLP Blog](https://yisong.io/MLP/). 
