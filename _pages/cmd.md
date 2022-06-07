@@ -17,7 +17,7 @@ nav_order: 2
 ## Check disk usage. 
 
 ```
-wing.nus@sle:/data3$ `df -h`
+wing.nus@sle:/data3$ df -h
 Filesystem      Size  Used Avail Use% Mounted on
 udev             94G     0   94G   0% /dev
 tmpfs            19G  2.4M   19G   1% /run
