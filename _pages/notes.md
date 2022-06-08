@@ -8,3 +8,5 @@ nav_order: 2
 ---
 
 - Useful Linux commands. [Link](/cmd)
+
+- AllenNLP tips. [Link](/allen)
