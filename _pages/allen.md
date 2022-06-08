@@ -2,11 +2,10 @@
 layout: page
 permalink: /allen/
 title: AllenNLP Tips
-description: AllenNLP tips. Last update: 9th June 2022. 
+description: AllenNLP tips. 
 nav: false
 nav_order: 2
 ---
-
 
 
 ## Some notes for AllenNLP's upgrade from 1.0 to 2.0
