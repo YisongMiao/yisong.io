@@ -4,6 +4,7 @@ permalink: /allen/
 title: AllenNLP Tips
 description: AllenNLP tips. Last update: 9th June 2022. 
 nav: false
+nav_order: 2
 ---
 
 
