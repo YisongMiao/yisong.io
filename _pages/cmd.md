@@ -32,4 +32,11 @@ tmpfs            94G     0   94G   0% /sys/fs/cgroup
 
 
 
+## Check the version of a package
+
+```bash
+pip freeze | grep transformers
+```
+
+
 
