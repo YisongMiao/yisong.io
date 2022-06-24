@@ -8,5 +8,6 @@ nav_order: 2
 ---
 
 - Useful Linux commands. [Link](/cmd)
-
 - AllenNLP tips. [Link](/allen)
+- Entity-grid method and more: To come. 
+- Perason correlation and Kendall’s tau's correlation: To come. 
