@@ -8,12 +8,13 @@ nav_order: 2
 ---
 
 
-# Intro
+
+## Intro
  `edu` stands for **E**lements of **D**iscourse **u**nderstanding, a workshop proceeding. edu here is not `education`, not `element discourse unit` :D
 
 
 
-# Human Question Answering 
+## Human Question Answering 
 
 The first article I read is *A computational theory of human question answering* by Wendy G. Lehnert. 
 
