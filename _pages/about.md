@@ -46,5 +46,5 @@ To come.
 
 
 
-- Elements of Discourse Understanding [here](yisong.io/edu)
+- Elements of Discourse Understanding [here](https://yisong.io/edu)
 
