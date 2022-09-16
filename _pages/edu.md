@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /edu/
-title: Elements of discourse understanding
-description: Edit by Joshi, Webber and Sag 1982 
+title: Elements of discourse understanding.
+description: Edit by Joshi, Webber and Sag 1982.
 nav: false
 nav_order: 2
 ---
@@ -10,7 +10,7 @@ nav_order: 2
 
 
 ## Intro
- `edu` stands for **E**lements of **D**iscourse **u**nderstanding, a workshop proceeding. edu here is not `education`, not `element discourse unit` :D
+ edu stands for **E**lements of **D**iscourse **u**nderstanding, a workshop proceeding. edu here is not education, not element discourse unit. :D
 
 
 
@@ -29,6 +29,8 @@ In short, I learn two things:
 
 
 More details later!
+
+I wish I can finish reading this proceeding in the meantime I finish writing my DiSQ draft :)
 
 
 
