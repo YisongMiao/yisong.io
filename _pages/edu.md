@@ -10,7 +10,7 @@ nav_order: 2
 
 
 ## Intro
- edu stands for **E**lements of **D**iscourse **u**nderstanding, a workshop proceeding. edu here is not education, not element discourse unit. :D
+`edu` stands for Elements of Discourse understanding, a workshop proceeding. It is not education, not element discourse unit. :D
 
 
 
